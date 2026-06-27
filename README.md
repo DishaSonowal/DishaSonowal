@@ -30,7 +30,9 @@
 
 <h2 align="center">Technologies that I use</h2>
 
-<div align="center">
+<div align="center"> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" height="50" alt="html5 logo"  />
+  <img width="10" />
   <img src="https://github.com/xandemon/developer-icons/blob/main/icons/html5.svg" height="50" alt="html5 logo"  />
   <img width="10" />
   <img src="https://github.com/xandemon/developer-icons/blob/main/icons/css3.svg" height="50" alt="css logo"  />
