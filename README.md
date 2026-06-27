@@ -46,3 +46,8 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="50" alt="VS Code logo"  />
   <img width="10" />
 </div>
+
+##
+
+<div align="center">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=dishasonowal&show_icons=true&locale=en" alt="dishasonowal" /></div>
