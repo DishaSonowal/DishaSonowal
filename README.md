@@ -50,4 +50,5 @@
 ##
 
 <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=dishasonowal&show_icons=true&locale=en" alt="dishasonowal" /></div>
+ <img src="https://github-readme-stats.vercel.app/api?username=dishasonowal&show_icons=true&locale=en" height="150" alt="dishasonowal" />
+</div>
