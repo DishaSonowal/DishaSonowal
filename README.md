@@ -19,10 +19,10 @@
 
 <p align="left"><i>
 
- 
-- Writing code that solves actual problems
-- Turning messy data into clear answers
-- Building small tools that make repetitive things easier
+- Exploring AI/ML concepts through hands-on projects and tools 
+- Building healthcare software that handles real patient data responsibly
+- Applying C++ and OOP to design reliable, structured systems
+- Contributing to open source projects and learning through real codebases
 
 </i></p>
 
