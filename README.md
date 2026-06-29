@@ -5,7 +5,7 @@
 ###
 
 <p align="center"><i>
- I'm drawn to how things work — from open source contributions to the system level. I build, analyse, automate, and explore across whatever problem interests me most.
+ I'm drawn to the intersection of software and healthcare — where clean code can actually improve lives. I'm currently studying AI/ML and building systems that process real medical data, contribute to open source, and turn complex problems into working solutions.
 </i></p>
 
 ##
