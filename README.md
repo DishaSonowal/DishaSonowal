@@ -5,7 +5,7 @@
 ###
 
 <p align="center"><i>
- I'm drawn to the intersection of software and healthcare — where clean code can actually improve lives. I'm currently studying AI/ML and building systems that process real medical data, contribute to open source, and turn complex problems into working solutions.
+ I'm drawn to the intersection of software and healthcare — where clean code can actually improve lives. I build systems that process real medical data, contribute to open source, and turn complex problems into working solutions.
 </i></p>
 
 ##
@@ -18,11 +18,11 @@
 ###
 
 <p align="left"><i>
-
-- Exploring AI/ML concepts through hands-on projects and tools 
+ 
 - Building healthcare software that handles real patient data responsibly
 - Applying C++ and OOP to design reliable, structured systems
 - Contributing to open source projects and learning through real codebases
+- Exploring AI/ML concepts through hands-on projects and tools
 
 </i></p>
 
